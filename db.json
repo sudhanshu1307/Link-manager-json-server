@@ -1,0 +1,34 @@
+{
+  "links": [
+    {
+      "id": "ca8c851e-c672-4028-8776-54d843abfc6f",
+      "projectName": "General",
+      "linkName": "Add",
+      "linkUrl": "google"
+    },
+    {
+      "id": "09c1c571-cb6c-47b6-bfa4-0e4e8ef87ca8",
+      "projectName": "General API",
+      "linkName": "All in one",
+      "linkUrl": "https://www.google.com/search?q=handle+null+case+exception+in+c%23&oq=handle+null+case+ex&aqs=chrome.2.69i57j33i22i29i30l9.9661j0j7&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "id": "209278cb-efba-4c94-bce5-068c4acfc773",
+      "projectName": "General",
+      "linkName": "All in one",
+      "linkUrl": "https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript"
+    },
+    {
+      "id": "2646505c-8ba4-4954-bb18-20e75b6860b3",
+      "projectName": "General API",
+      "linkName": "All in one",
+      "linkUrl": "https://www.google.com/search?q=handle+null+case+exception+in+c%23&oq=handle+null+case+ex&aqs=chrome.2.69i57j33i22i29i30l9.9661j0j7&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "id": "eae576a9-ca31-4d12-82e0-3fe0a6ad0d7d",
+      "projectName": "Uniq",
+      "linkName": "All in one",
+      "linkUrl": "google"
+    }
+  ]
+}
